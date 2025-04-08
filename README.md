@@ -1,4 +1,5 @@
 Project Name
+
 "A Novel Hybrid Ensemble Technique for Immediate Anomaly Detection in Industry 4.0 Systems"
 
 Project Description
